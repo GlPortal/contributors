@@ -8,4 +8,4 @@ Refactored a lot of the OpenGL and Shader Code to a usable state. Fixed the Port
 ## Stephan
 Added support for sound effects.
 ## Juraj 
-Got the blender plugin from a proof of concept to a usable state.
+Got the blender plugin from a proof of concept to a usable state. Started work on a js scripting engine for GlPortal.
