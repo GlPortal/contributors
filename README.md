@@ -9,3 +9,5 @@ Refactored a lot of the OpenGL and Shader Code to a usable state. Fixed the Port
 Got the blender plugin from a proof of concept to a usable state. Started work on a js scripting engine for GlPortal.
 ## Stephan
 Added support for sound effects.
+## Bowen
+Added recursive portals to the game.
