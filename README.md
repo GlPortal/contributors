@@ -1,6 +1,7 @@
 # contributors
 It is hard to keep track of all the awesome contributors. This file is trying to keep track of some of the most important milestones connecting them to the people which created them.
-
+## Simon
+Created the first prototype of GlPortal.
 ## Julian
 Saved the code from becoming obsolete by porting the whole code base to modern OpenGL basically rewriting the whole engine core.
 ## Dorian
