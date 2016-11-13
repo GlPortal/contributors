@@ -21,3 +21,6 @@ Added recursive portals to the game.
 
 ## Geert
 - :sparkles: Spring Cleaning 2016
+
+## Henry
+- :sparkles: Spring Cleaning 2016
